@@ -1,4 +1,4 @@
-# Stopwatch Web application
+# Stopwatch Web application using HTML,CSS and JavaScript
 
 Try it : https://diganthhs.github.io/PRODIGY_WD_02/
 
