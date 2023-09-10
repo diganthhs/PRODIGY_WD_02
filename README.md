@@ -1,5 +1,7 @@
 # Stopwatch Web application
 
+Try it : https://diganthhs.github.io/PRODIGY_WD_02/
+
 ![image](https://github.com/diganthhs/PRODIGY_WD_02/assets/142293526/df44464a-f0be-40e8-be43-df1b5d58c93d)
 
 ![image](https://github.com/diganthhs/PRODIGY_WD_02/assets/142293526/5733a0ec-6c4e-4e6a-99d6-6bb501158346)
