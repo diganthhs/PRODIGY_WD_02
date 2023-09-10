@@ -11,5 +11,7 @@ Stopwatch web application
 
 
 When the "Stop" button is pressed/clicked it stops the timer.
+
 We then have two options: we can either Go again to keep counting or Clear.
+
 Clicking/Pressing the Clear button simply clears/resets the current count.
